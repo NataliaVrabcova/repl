@@ -5,7 +5,7 @@
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello world! natalia");
-    System.out.println("Apple");
+    System.out.println("dog");
   }
 
   // @Test
